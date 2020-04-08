@@ -1,4 +1,4 @@
-# RestHost
+# HostRecovery
 
 Petit script permetant la restauration du fichier host sous windows.
 
